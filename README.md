@@ -9,7 +9,7 @@
 
 GreenChain replaces manual, error-prone spreadsheets with an intelligent system that processes utility bills, calculates carbon footprints, and provides actionable insights to reduce environmental impact.
 
-![GreenChain Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=GreenChain+Dashboard)
+![GreenChain Demo](https://youtu.be/9E6MKpq4Yeo)
 
 ## 🎯 Problem Statement
 
